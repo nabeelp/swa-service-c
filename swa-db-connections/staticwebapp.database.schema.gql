@@ -1,0 +1,4 @@
+type ContainerC @model {
+  id: ID
+  Name: String
+}
